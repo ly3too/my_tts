@@ -1,0 +1,7 @@
+{ 
+"api_key" : "your api key",
+"api_secret" : "your api secret",
+"file_name" : "out.mp3",
+"per" : 0,
+"speed" : 4
+}
