@@ -1,4 +1,5 @@
-# A simple Text to speech script using baidu TTS REST api
+# A simple Chinese Text to speech script using baidu TTS REST api
+## 一个简单的中文语音合成脚本， 使用百度的 REST API
 - similar to Mac's say 
 
 ## prerequest
